@@ -1,0 +1,10 @@
+.h-Screen {
+    height: 100vh;
+}
+
+.rgb-p-b {
+    border: 1px solid red;
+    /* -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text; */
+}
